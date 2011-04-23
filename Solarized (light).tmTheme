@@ -993,6 +993,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>PHP: Array()</string>
+			<key>scope</key>
+			<string>meta.array.php support.function.construct.php, meta.array.empty.php support.function.construct.php</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#A57800</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>PHP: Array Construct</string>
 			<key>scope</key>
 			<string>support.function.construct.php</string>
@@ -1032,7 +1045,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#cb4b16</string>
+				<string>#CB4B16</string>
 			</dict>
 		</dict>
 		<dict>
