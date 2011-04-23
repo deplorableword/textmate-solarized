@@ -1002,7 +1002,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>PHP: Numberic Constant</string>
+			<string>PHP: Numeric Constant</string>
 			<key>scope</key>
 			<string>constant.numeric.php</string>
 			<key>settings</key>
