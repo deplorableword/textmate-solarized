@@ -1013,6 +1013,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>PHP: New</string>
+			<key>scope</key>
+			<string>keyword.other.new.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cb4b16</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>PHP: ::</string>
 			<key>scope</key>
 			<string>support.class.php, keyword.operator.class</string>
