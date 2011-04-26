@@ -30,6 +30,8 @@
 			<string>comment</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
 				<string>#586E75</string>
 			</dict>
@@ -696,15 +698,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>HTML: &gt;text&lt;</string>
+			<string>HTML: style</string>
 			<key>scope</key>
-			<string>text.html.basic</string>
+			<string>source.css.embedded.html entity.name.tag.style.html</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#536871</string>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -715,7 +715,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>
