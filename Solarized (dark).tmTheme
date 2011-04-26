@@ -16,7 +16,7 @@
 				<key>foreground</key>
 				<string>#839496</string>
 				<key>invisibles</key>
-				<string>#93A1A180</string>
+				<string>#0A2933</string>
 				<key>lineHighlight</key>
 				<string>#0A2933</string>
 				<key>selection</key>
@@ -990,7 +990,7 @@
 				<key>foreground</key>
 				<string>#536871</string>
 			</dict>
-    </dict>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>PHP: Array()</string>
@@ -1045,7 +1045,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#cb4b16</string>
+				<string>#CB4B16</string>
 			</dict>
 		</dict>
 		<dict>
