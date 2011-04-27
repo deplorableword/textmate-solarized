@@ -223,7 +223,7 @@
 			<key>name</key>
 			<string>Tag start/end</string>
 			<key>scope</key>
-			<string>punctuation.definition.tag.begin, punctuation.definition.tag.end</string>
+			<string>punctuation.definition.tag.html, punctuation.definition.tag.begin, punctuation.definition.tag.end</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -631,17 +631,6 @@
 				<string>bold</string>
 				<key>foreground</key>
 				<string>#BD3800</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>HTML: Tag Start</string>
-			<key>scope</key>
-			<string>punctuation.definition.tag.html</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#586E75</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1790,7 +1779,7 @@
 				<key>foreground</key>
 				<string>#536871</string>
 			</dict>
-    </dict>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>Perl: variables</string>
