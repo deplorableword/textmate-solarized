@@ -25,6 +25,15 @@ The goal is to get as-close-as-possible to the rendering of the same file in Vim
 3. Checkout this guide to [TextMate theme development](http://manual.macromates.com/en/themes).
 4. Check the [issues](https://github.com/deplorableword/textmate-solarized/issues) to see what needs working on.
 
+Contributors
+---------
+* [deplorableword](https://github.com/deplorableword)
+* [markstory](https://github.com/markstory)
+* [bmthykm](https://github.com/bmthykm)
+* [fentie](https://github.com/fentie)
+* [rays](https://github.com/rays)
+* [Zegnat](https://github.com/zegnat)
+
 License
 -------
 
