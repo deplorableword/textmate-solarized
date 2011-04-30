@@ -375,6 +375,8 @@
 			<string>meta.selector.css</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
 				<string>#536871</string>
 			</dict>
@@ -410,6 +412,8 @@
 			<string>meta.property-value.css</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
 				<string>#269186</string>
 			</dict>
@@ -467,6 +471,8 @@
 			<string>entity.other.attribute-name.class.css</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
 				<string>#268BD2</string>
 			</dict>
@@ -491,6 +497,8 @@
 			<string>entity.other.attribute-name.id.css</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
 				<string>#268BD2</string>
 			</dict>
@@ -596,6 +604,19 @@
 				<string>italic</string>
 				<key>foreground</key>
 				<string>#899090</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HTML: Comment Block</string>
+			<key>scope</key>
+			<string>comment.block.html</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#839496</string>
 			</dict>
 		</dict>
 		<dict>
