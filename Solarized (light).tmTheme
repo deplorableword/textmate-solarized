@@ -223,7 +223,7 @@
 			<key>name</key>
 			<string>Tag start/end</string>
 			<key>scope</key>
-			<string>punctuation.definition.tag.begin, punctuation.definition.tag.end</string>
+			<string>punctuation.definition.tag.html, punctuation.definition.tag.begin, punctuation.definition.tag.end</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -466,7 +466,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1F74CF</string>
+				<string>#268BD2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -490,7 +490,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1F74CF</string>
+				<string>#268BD2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -547,7 +547,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1F74CF</string>
+				<string>#268BD2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -558,7 +558,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1F74CF</string>
+				<string>#268BD2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -580,7 +580,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1F74CF</string>
+				<string>#268BD2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -635,17 +635,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>HTML: Tag Start</string>
-			<key>scope</key>
-			<string>punctuation.definition.tag.html</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#586E75</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>HTML: =</string>
 			<key>scope</key>
 			<string>text.html.basic meta.tag.other.html, text.html.basic meta.tag.any.html, text.html.basic meta.tag.block.any, text.html.basic meta.tag.inline.any, text.html.basic meta.tag.structure.any.html, text.html.basic source.js.embedded.html, punctuation.separator.key-value.html</string>
@@ -691,7 +680,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#1F74CF</string>
+				<string>#268BD2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -783,7 +772,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1F74CF</string>
+				<string>#268BD2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1660,7 +1649,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#1F74CF</string>
+				<string>#268BD2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1790,7 +1779,7 @@
 				<key>foreground</key>
 				<string>#536871</string>
 			</dict>
-    </dict>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>Perl: variables</string>
