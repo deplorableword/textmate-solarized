@@ -981,6 +981,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>PHP: Class Names</string>
+			<key>scope</key>
+			<string>support.class.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#839496</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>PHP: []</string>
 			<key>scope</key>
 			<string>keyword.operator.index-start.php, keyword.operator.index-end.php</string>
@@ -1062,13 +1073,13 @@
 			<key>name</key>
 			<string>PHP: ::</string>
 			<key>scope</key>
-			<string>support.class.php, keyword.operator.class</string>
+			<string>keyword.operator.class</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#536871</string>
+				<string>#839496</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1098,6 +1109,17 @@
 			<string>PHP: Class Function</string>
 			<key>settings</key>
 			<dict/>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PHP: Semicolon</string>
+			<key>scope</key>
+			<string>punctuation.terminator.expression.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#839496</string>
+			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
