@@ -30,7 +30,7 @@ Contributors
 * [deplorableword](https://github.com/deplorableword)
 * [fentie](https://github.com/fentie)
 * [bmthykm](https://github.com/bmthykm)
-* [Zegnat](https://github.com/zegnat)* 
+* [Zegnat](https://github.com/zegnat) 
 * [markstory](https://github.com/markstory)
 * [rays](https://github.com/rays)
 * [joshcarr](https://github.com/joshcarr)
