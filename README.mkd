@@ -35,6 +35,7 @@ Contributors
 * [rays](https://github.com/rays)
 * [joshcarr](https://github.com/joshcarr)
 * [thatRD](https://github.com/thatRD)
+* [oesmith](https://github.com/oesmith)
 
 License
 -------
