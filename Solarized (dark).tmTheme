@@ -1566,7 +1566,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Tex: Function </string>
+			<string>Tex: Function</string>
 			<key>scope</key>
 			<string>support.function.be.latex</string>
 			<key>settings</key>
@@ -1882,7 +1882,7 @@
 				<string>#DC322F</string>
 			</dict>
 		</dict>
-		
+
 		<dict>
 			<key>name</key>
 			<string>Markdown: List</string>
@@ -1905,7 +1905,7 @@
 				<string>#b58900</string>
 			</dict>
 		</dict>
-		
+
 		<dict>
 			<key>name</key>
 			<string>Markdown: Link</string>
@@ -1917,21 +1917,19 @@
 				<string>#859900</string>
 			</dict>
 		</dict>
-		
+
 		<dict>
 			<key>name</key>
 			<string>Markdown: Image</string>
 			<key>scope</key>
-			<string>
-			meta.image.inline.markdown, string.other.link.description.markdown
-			</string>
+			<string>meta.image.inline.markdown, string.other.link.description.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#859900</string>
 			</dict>
 		</dict>
-		
+
 		<dict>
 			<key>name</key>
 			<string>Markdown: Heading entity name</string>
@@ -1943,13 +1941,12 @@
 				<string>#CB4B16</string>
 			</dict>
 		</dict>
-		
+
 		<dict>
 			<key>name</key>
 			<string>Markdown: separator</string>
 			<key>scope</key>
-			<string>meta.separator.markdown
-			</string>
+			<string>meta.separator.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
@@ -1958,7 +1955,7 @@
 				<string>#268bd2</string>
 			</dict>
 		</dict>
-		
+
 		<dict>
 			<key>name</key>
 			<string>Markdown: code block</string>
@@ -1970,7 +1967,7 @@
 				<string>#b58900</string>
 			</dict>
 		</dict>
-		
+
 		<dict>
 			<key>name</key>
 			<string>Markdown: code inline</string>
@@ -1982,34 +1979,31 @@
 				<string>#b58900</string>
 			</dict>
 		</dict>
-		
+
 		<dict>
 			<key>name</key>
 			<string>Markdown: punctuation definition</string>
 			<key>scope</key>
-			<string>punctuation.definition.raw.markdown, punctuation.definition.italic.markdown, punctuation.definition.bold.markdown, punctuation.definition.string.begin.markdown,punctuation.definition.string.end.markdown,punctuation.definition.metadata.markdown
-			
-			</string>
+			<string>punctuation.definition.raw.markdown, punctuation.definition.italic.markdown, punctuation.definition.bold.markdown, punctuation.definition.string.begin.markdown,punctuation.definition.string.end.markdown,punctuation.definition.metadata.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#586e75</string>
 			</dict>
 		</dict>
-		
+
 		<dict>
 			<key>name</key>
 			<string>Markdown: blockquote punctuation definition</string>
 			<key>scope</key>
-			<string>punctuation.definition.blockquote.markdown
-			</string>
+			<string>punctuation.definition.blockquote.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#2aa198</string>
 			</dict>
 		</dict>
-		
+
 	</array>
 	<key>uuid</key>
 	<string>A4299D9B-1DE5-4BC4-87F6-A757E71B1597</string>
