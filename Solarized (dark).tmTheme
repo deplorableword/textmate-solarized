@@ -1885,122 +1885,162 @@
 
 		<dict>
 			<key>name</key>
-			<string>Markdown: List</string>
+			<string>Markdown: Headings</string>
 			<key>scope</key>
-			<string>punctuation.definition.list_item.markdown</string>
+			<string>markup.heading.markdown, markup.heading.1.markdown, markup.heading.2.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#268bd2</string>
+				<string>#268BD2</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Markup: Heading</string>
+			<string>Markdown: Bold</string>
 			<key>scope</key>
-			<string>markup.heading</string>
+			<string>markup.bold.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#839496</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown: Italic</string>
+			<key>scope</key>
+			<string>markup.italic.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#839496</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown: Punctuation for Bold, Italic, and Inline Block</string>
+			<key>scope</key>
+			<string>punctuation.definition.bold.markdown, punctuation.definition.italic.markdown, punctuation.definition.raw.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#b58900</string>
+				<string>#D3201F</string>
 			</dict>
 		</dict>
-
 		<dict>
 			<key>name</key>
-			<string>Markdown: Link</string>
+			<string>Markdown: Bulleted List</string>
 			<key>scope</key>
-			<string>meta.link.inline.markdown,  string.other.link.title.markdown</string>
+			<string>markup.list.unnumbered.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#B58900</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown: Numbered List</string>
+			<key>scope</key>
+			<string>markup.list.numbered.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#859900</string>
 			</dict>
 		</dict>
-
 		<dict>
 			<key>name</key>
-			<string>Markdown: Image</string>
+			<string>Markdown: Block and Inline Block</string>
 			<key>scope</key>
-			<string>meta.image.inline.markdown, string.other.link.description.markdown</string>
+			<string>markup.raw.block.markdown, markup.raw.inline.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#859900</string>
+				<string>#2AA198</string>
 			</dict>
 		</dict>
-
 		<dict>
 			<key>name</key>
-			<string>Markdown: Heading entity name</string>
+			<string>Markdown: Quote Block and Punctuation</string>
 			<key>scope</key>
-			<string>entity.name.section.markdown</string>
+			<string>markup.quote.markdown, punctuation.definition.blockquote.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CB4B16</string>
+				<string>#6C71C4</string>
 			</dict>
 		</dict>
-
 		<dict>
 			<key>name</key>
-			<string>Markdown: separator</string>
+			<string>Markdown: Seperator</string>
 			<key>scope</key>
 			<string>meta.separator.markdown</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#042029</string>
 				<key>foreground</key>
-				<string>#268bd2</string>
+				<string>#D33682</string>
 			</dict>
 		</dict>
-
 		<dict>
 			<key>name</key>
-			<string>Markdown: code block</string>
+			<string>Markdown: Link and Reference URL</string>
 			<key>scope</key>
-			<string>markup.raw.block.markdown</string>
+			<string>meta.image.inline.markdown, markup.underline.link.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#586E75</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown: Link Title, Image Description</string>
+			<key>scope</key>
+			<string>string.other.link.title.markdown, string.other.link.description.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#b58900</string>
+				<string>#93A1A1</string>
 			</dict>
 		</dict>
-
 		<dict>
 			<key>name</key>
-			<string>Markdown: code inline</string>
+			<string>Markdown: Angle Brakets on Link and Image</string>
 			<key>scope</key>
-			<string>markup.raw.inline.markdown</string>
+			<string>punctuation.definition.link.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#b58900</string>
+				<string>#586E75</string>
 			</dict>
 		</dict>
-
 		<dict>
 			<key>name</key>
-			<string>Markdown: punctuation definition</string>
+			<string>Markdown: Parens on Link and Image </string>
 			<key>scope</key>
-			<string>punctuation.definition.raw.markdown, punctuation.definition.italic.markdown, punctuation.definition.bold.markdown, punctuation.definition.string.begin.markdown,punctuation.definition.string.end.markdown,punctuation.definition.metadata.markdown</string>
+			<string>punctuation.definition.metadata.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#586e75</string>
+				<string>#586E75</string>
 			</dict>
 		</dict>
-
 		<dict>
 			<key>name</key>
-			<string>Markdown: blockquote punctuation definition</string>
+			<string>Markdown: Square Brakets on Link, Image, and Reference</string>
 			<key>scope</key>
-			<string>punctuation.definition.blockquote.markdown</string>
+			<string>punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown, punctuation.definition.constant.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#2aa198</string>
+				<string>#586E75</string>
 			</dict>
 		</dict>
 
