@@ -36,6 +36,7 @@ Contributors
 * [joshcarr](https://github.com/joshcarr)
 * [thatRD](https://github.com/thatRD)
 * [oesmith](https://github.com/oesmith)
+* [evanmoran](https://github.com/evanmoran)
 
 License
 -------
