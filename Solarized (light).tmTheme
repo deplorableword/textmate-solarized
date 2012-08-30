@@ -1865,7 +1865,7 @@
 			<key>name</key>
 			<string>Markdown: Headings</string>
 			<key>scope</key>
-			<string>markup.heading.markdown, markup.heading.1.markdown, markup.heading.2.markdown</string>
+			<string>markup.heading.markdown, markup.heading.1.markdown, markup.heading.2.markdown, markup.heading.3.markdown, markup.heading.4.markdown, markup.heading.5.markdown, markup.heading.6.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
