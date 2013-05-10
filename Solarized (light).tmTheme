@@ -603,7 +603,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#899090</string><!-- (nonstandard) ~base0 -->
+				<string>#93a1a1</string><!-- base1 -->
 			</dict>
     	</dict>
 		<dict>
@@ -1079,7 +1079,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#899090</string><!-- (nonstandard) ~base0 -->
+				<string>#93a1a1</string><!-- base1 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1131,7 +1131,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#899090</string><!-- (nonstandard) ~base0 -->
+				<string>#93a1a1</string><!-- base1 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1166,7 +1166,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#899090</string><!-- (nonstandard) ~base0 -->
+				<string>#93a1a1</string><!-- base1 -->
 			</dict>
 		</dict>
 		<dict>
