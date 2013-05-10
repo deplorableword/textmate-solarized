@@ -1318,7 +1318,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#EAE3CA</string><!-- (nonstandard) ~base2 -->
+				<string>#eee8d5</string><!-- base2 -->
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
@@ -1333,7 +1333,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#EAE3CA</string><!-- (nonstandard) ~base2 -->
+				<string>#eee8d5</string><!-- base2 -->
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
@@ -1348,7 +1348,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#EAE3CA</string><!-- (nonstandard) ~base2 -->
+				<string>#eee8d5</string><!-- base2 -->
 				<key>foreground</key>
 				<string>#219186</string>
 			</dict>
