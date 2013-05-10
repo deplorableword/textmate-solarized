@@ -378,7 +378,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#536871</string><!-- (nonstandard) ~base01 -->
+				<string>#586e75</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -461,7 +461,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#536871</string><!-- (nonstandard) ~base01 -->
+				<string>#586e75</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1009,7 +1009,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#536871</string><!-- (nonstandard) ~base01 -->
+				<string>#586e75</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1131,7 +1131,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#536871</string><!-- (nonstandard) ~base01 -->
+				<string>#586e75</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1288,7 +1288,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#536871</string><!-- (nonstandard) ~base01 -->
+				<string>#586e75</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1707,7 +1707,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#536871</string><!-- (nonstandard) ~base01 -->
+				<string>#586e75</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1733,7 +1733,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#536871</string><!-- (nonstandard) ~base01 -->
+				<string>#586e75</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1809,7 +1809,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#536871</string><!-- (nonstandard) ~base01 -->
+				<string>#586e75</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1822,7 +1822,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#536871</string><!-- (nonstandard) ~base01 -->
+				<string>#586e75</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
