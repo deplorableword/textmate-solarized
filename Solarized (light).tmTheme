@@ -448,7 +448,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#738A13</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -808,7 +808,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#738A05</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -819,7 +819,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#748B00</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -845,7 +845,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#748B00</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -869,7 +869,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#748B00</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -1120,7 +1120,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#748B00</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -1142,7 +1142,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#748B00</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -1552,7 +1552,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#748B00</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -1615,7 +1615,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#748B00</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -1648,7 +1648,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#748B00</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -1698,7 +1698,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#748B00</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
