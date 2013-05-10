@@ -666,7 +666,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#708284</string><!-- (nonstandard) ~base00 -->
+				<string>#657b83</string><!-- base00 -->
 			</dict>
 		</dict>
 		<dict>
@@ -677,7 +677,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#708284</string><!-- (nonstandard) ~base00 -->
+				<string>#657b83</string><!-- base00 -->
 			</dict>
 		</dict>
 		<dict>
@@ -773,7 +773,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#708284</string><!-- (nonstandard) ~base00 -->
+				<string>#657b83</string><!-- base00 -->
 			</dict>
 		</dict>
 		<dict>
