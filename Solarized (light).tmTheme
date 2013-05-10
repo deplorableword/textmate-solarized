@@ -749,7 +749,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#819090</string><!-- (nonstandard) ~base0 -->
+				<string>#839496</string><!-- base0 -->
 			</dict>
 		</dict>
 		<dict>
@@ -952,7 +952,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#819090</string><!-- (nonstandard) ~base0 -->
+				<string>#839496</string><!-- base0 -->
 			</dict>
 		</dict>
 		<dict>
