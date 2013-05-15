@@ -66,7 +66,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D30102</string><!-- (nonstandard) ~red -->
+				<string>#dc322f</string><!-- red -->
 			</dict>
 		</dict>
 		<dict>
@@ -156,7 +156,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D30102</string><!-- (nonstandard) ~red -->
+				<string>#dc322f</string><!-- red -->
 			</dict>
 		</dict>
 		<dict>
@@ -178,7 +178,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D30102</string><!-- (nonstandard) ~red -->
+				<string>#dc322f</string><!-- red -->
 			</dict>
 		</dict>
 		<dict>
@@ -262,7 +262,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D30102</string><!-- (nonstandard) ~red -->
+				<string>#dc322f</string><!-- red -->
 			</dict>
 		</dict>
 		<dict>
@@ -330,7 +330,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -341,7 +341,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C60000</string><!-- (nonstandard) ~red -->
+				<string>#dc322f</string><!-- red -->
 			</dict>
 		</dict>
 		<dict>
@@ -354,7 +354,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A57800</string><!-- (nonstandard) ~yellow -->
+				<string>#b58900</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
@@ -365,7 +365,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D01F1E</string><!-- (nonstandard) ~red -->
+				<string>#dc322f</string><!-- red -->
 			</dict>
 		</dict>
 		<dict>
@@ -378,7 +378,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#536871</string><!-- (nonstandard) ~base01 -->
+				<string>#586e75</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -389,7 +389,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5a74cf</string><!-- (nonstandard) ~violet -->
+				<string>#6c71c4</string><!-- violet -->
 			</dict>
 		</dict>
 		<dict>
@@ -402,7 +402,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -415,7 +415,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -426,7 +426,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D01F1E</string><!-- (nonstandard) ~red -->
+				<string>#dc322f</string><!-- red -->
 			</dict>
 		</dict>
 		<dict>
@@ -437,7 +437,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -448,7 +448,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#738A13</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -461,7 +461,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#536871</string><!-- (nonstandard) ~base01 -->
+				<string>#586e75</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -487,7 +487,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#BD3800</string><!-- (nonstandard) ~orange -->
+				<string>#cb4b16</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -511,7 +511,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A57800</string><!-- (nonstandard) ~yellow -->
+				<string>#b58900</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
@@ -524,7 +524,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A57800</string><!-- (nonstandard) ~yellow -->
+				<string>#b58900</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
@@ -546,7 +546,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -603,7 +603,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#899090</string><!-- (nonstandard) ~base0 -->
+				<string>#93a1a1</string><!-- base1 -->
 			</dict>
     	</dict>
 		<dict>
@@ -640,7 +640,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -653,7 +653,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#BD3800</string><!-- (nonstandard) ~orange -->
+				<string>#cb4b16</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -666,7 +666,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#708284</string><!-- (nonstandard) ~base00 -->
+				<string>#657b83</string><!-- base00 -->
 			</dict>
 		</dict>
 		<dict>
@@ -677,7 +677,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#708284</string><!-- (nonstandard) ~base00 -->
+				<string>#657b83</string><!-- base00 -->
 			</dict>
 		</dict>
 		<dict>
@@ -690,7 +690,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -749,7 +749,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#819090</string><!-- (nonstandard) ~base0 -->
+				<string>#839496</string><!-- base0 -->
 			</dict>
 		</dict>
 		<dict>
@@ -773,7 +773,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#708284</string><!-- (nonstandard) ~base00 -->
+				<string>#657b83</string><!-- base00 -->
 			</dict>
 		</dict>
 		<dict>
@@ -784,7 +784,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#469186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -808,7 +808,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#738A05</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -819,7 +819,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#748B00</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -832,7 +832,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A57800</string><!-- (nonstandard) ~yellow -->
+				<string>#b58900</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
@@ -845,7 +845,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#748B00</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -858,7 +858,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A57800</string><!-- (nonstandard) ~yellow -->
+				<string>#b58900</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
@@ -869,7 +869,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#748B00</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -880,7 +880,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -893,7 +893,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A57800</string><!-- (nonstandard) ~yellow -->
+				<string>#b58900</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
@@ -906,7 +906,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -917,7 +917,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D01F1E</string><!-- (nonstandard) ~red -->
+				<string>#dc322f</string><!-- red -->
 			</dict>
 		</dict>
 		<dict>
@@ -928,7 +928,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BD3800</string><!-- (nonstandard) ~orange -->
+				<string>#cb4b16</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -939,7 +939,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BD3800</string><!-- (nonstandard) ~orange -->
+				<string>#cb4b16</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -952,7 +952,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#819090</string><!-- (nonstandard) ~base0 -->
+				<string>#839496</string><!-- base0 -->
 			</dict>
 		</dict>
 		<dict>
@@ -965,7 +965,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -987,7 +987,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D31E1E</string><!-- (nonstandard) ~red -->
+				<string>#dc322f</string><!-- red -->
 			</dict>
 		</dict>
 		<dict>
@@ -998,7 +998,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#536871</string><!-- (nonstandard) ~base01 -->
+				<string>#586e75</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1011,7 +1011,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A57800</string><!-- (nonstandard) ~yellow -->
+				<string>#b58900</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
@@ -1022,7 +1022,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A57800</string><!-- (nonstandard) ~yellow -->
+				<string>#b58900</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
@@ -1033,7 +1033,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D31E1E</string><!-- (nonstandard) ~red -->
+				<string>#dc322f</string><!-- red -->
 			</dict>
 		</dict>
 		<dict>
@@ -1044,7 +1044,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -1068,7 +1068,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#536871</string><!-- (nonstandard) ~base01 -->
+				<string>#586e75</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1079,7 +1079,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#899090</string><!-- (nonstandard) ~base0 -->
+				<string>#93a1a1</string><!-- base1 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1090,7 +1090,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A57800</string><!-- (nonstandard) ~yellow -->
+				<string>#b58900</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
@@ -1109,7 +1109,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#536871</string><!-- (nonstandard) ~base01 -->
+				<string>#586e75</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1120,7 +1120,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#748B00</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -1131,7 +1131,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#899090</string><!-- (nonstandard) ~base0 -->
+				<string>#93a1a1</string><!-- base1 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1142,7 +1142,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#748B00</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -1166,7 +1166,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#899090</string><!-- (nonstandard) ~base0 -->
+				<string>#93a1a1</string><!-- base1 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1177,7 +1177,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BD3613</string><!-- (nonstandard) ~orange -->
+				<string>#cb4b16</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -1188,7 +1188,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BD3800</string><!-- (nonstandard) ~orange -->
+				<string>#cb4b16</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -1201,7 +1201,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -1214,7 +1214,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#BB3700</string><!-- (nonstandard) ~orange -->
+				<string>#cb4b16</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -1227,7 +1227,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#BB3700</string><!-- (nonstandard) ~orange -->
+				<string>#cb4b16</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -1240,7 +1240,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#BB3700</string><!-- (nonstandard) ~orange -->
+				<string>#cb4b16</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -1253,7 +1253,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -1266,7 +1266,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#536871</string><!-- (nonstandard) ~base01 -->
+				<string>#586e75</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1279,7 +1279,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -1292,7 +1292,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A57800</string><!-- (nonstandard) ~yellow -->
+				<string>#b58900</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
@@ -1303,7 +1303,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#A57706</string><!-- (nonstandard) ~yellow -->
+				<string>#b58900</string><!-- yellow -->
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
@@ -1318,11 +1318,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#EAE3CA</string><!-- (nonstandard) ~base2 -->
+				<string>#eee8d5</string><!-- base2 -->
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D3201F</string><!-- (nonstandard) ~red -->
+				<string>#dc322f</string><!-- red -->
 			</dict>
 		</dict>
 		<dict>
@@ -1333,11 +1333,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#EAE3CA</string><!-- (nonstandard) ~base2 -->
+				<string>#eee8d5</string><!-- base2 -->
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#BF3904</string><!-- (nonstandard) ~orange -->
+				<string>#cb4b16</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -1348,7 +1348,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#EAE3CA</string><!-- (nonstandard) ~base2 -->
+				<string>#eee8d5</string><!-- base2 -->
 				<key>foreground</key>
 				<string>#219186</string>
 			</dict>
@@ -1374,7 +1374,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -1385,7 +1385,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -1398,7 +1398,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D3201F</string><!-- (nonstandard) ~red -->
+				<string>#dc322f</string><!-- red -->
 			</dict>
 		</dict>
 		<dict>
@@ -1409,7 +1409,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -1422,7 +1422,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B81D1C</string><!-- (nonstandard) ~red -->
+				<string>#dc322f</string><!-- red -->
 			</dict>
 		</dict>
 		<dict>
@@ -1435,7 +1435,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A57705</string><!-- (nonstandard) ~yellow -->
+				<string>#b58900</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
@@ -1448,7 +1448,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A57705</string><!-- (nonstandard) ~yellow -->
+				<string>#b58900</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
@@ -1461,7 +1461,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#BD3800</string><!-- (nonstandard) ~orange -->
+				<string>#cb4b16</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -1474,7 +1474,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D01F1E</string><!-- (nonstandard) ~red -->
+				<string>#dc322f</string><!-- red -->
 			</dict>
 		</dict>
 		<dict>
@@ -1487,7 +1487,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -1500,7 +1500,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A57800</string><!-- (nonstandard) ~yellow -->
+				<string>#b58900</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
@@ -1513,7 +1513,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D3201F</string><!-- (nonstandard) ~red -->
+				<string>#dc322f</string><!-- red -->
 			</dict>
 		</dict>
 		<dict>
@@ -1526,7 +1526,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -1539,7 +1539,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D01F1E</string><!-- (nonstandard) ~red -->
+				<string>#dc322f</string><!-- red -->
 			</dict>
 		</dict>
 		<dict>
@@ -1552,7 +1552,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#748B00</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -1565,7 +1565,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#BD3800</string><!-- (nonstandard) ~orange -->
+				<string>#cb4b16</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -1578,7 +1578,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -1602,7 +1602,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#269186</string><!-- (nonstandard) ~cyan -->
+				<string>#2aa198</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -1615,7 +1615,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#748B00</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -1626,7 +1626,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BD3800</string><!-- (nonstandard) ~orange -->
+				<string>#cb4b16</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -1637,7 +1637,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A57800</string><!-- (nonstandard) ~yellow -->
+				<string>#b58900</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
@@ -1648,7 +1648,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#748B00</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -1659,7 +1659,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BD3800</string><!-- (nonstandard) ~orange -->
+				<string>#cb4b16</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -1685,7 +1685,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#536871</string><!-- (nonstandard) ~base01 -->
+				<string>#586e75</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1698,7 +1698,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#748B00</string><!-- (nonstandard) ~green -->
+				<string>#859900</string><!-- green -->
 			</dict>
 		</dict>
 		<dict>
@@ -1711,7 +1711,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#536871</string><!-- (nonstandard) ~base01 -->
+				<string>#586e75</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1724,7 +1724,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CD1E1D</string><!-- (nonstandard) ~red -->
+				<string>#dc322f</string><!-- red -->
 			</dict>
 		</dict>
 		<dict>
@@ -1748,7 +1748,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#BD3800</string><!-- (nonstandard) ~orange -->
+				<string>#cb4b16</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -1774,7 +1774,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A57800</string><!-- (nonstandard) ~yellow -->
+				<string>#b58900</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
@@ -1787,7 +1787,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#536871</string><!-- (nonstandard) ~base01 -->
+				<string>#586e75</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1800,7 +1800,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#536871</string><!-- (nonstandard) ~base01 -->
+				<string>#586e75</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1811,7 +1811,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B58900</string><!-- yellow -->
+				<string>#b58900</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
