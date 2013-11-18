@@ -38,6 +38,7 @@ Contributors
 * [oesmith](https://github.com/oesmith)
 * [evanmoran](https://github.com/evanmoran)
 * [iristyle](https://github.com/iristyle)
+* [albertboada](https://github.com/albertboada)
 
 License
 -------
