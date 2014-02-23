@@ -1607,6 +1607,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Python: docstring</string>
+			<key>scope</key>
+			<string>string.quoted.double.block.python</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#586e75</string><!-- base01 -->
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Python: storage</string>
 			<key>scope</key>
 			<string>storage.type.class.python, storage.type.function.python, storage.modifier.global.python</string>
