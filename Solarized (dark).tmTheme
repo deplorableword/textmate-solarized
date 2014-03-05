@@ -4,6 +4,21 @@
 <dict>
 	<key>name</key>
 	<string>Solarized (dark)</string>
+	<key>semanticClass</key>
+	<string>solarized.dark</string>
+	<key>gutterSettings</key>
+	<dict>
+		<key>background</key>
+		<string>#073642</string><!-- base02 -->
+		<key>divider</key>
+		<string>#073642</string><!-- base02 -->
+		<key>foreground</key>
+		<string>#586E75</string><!-- base01 -->
+		<key>selectionBackground</key>
+		<string>#073642</string><!-- base02 -->
+		<key>selectionForeground</key>
+		<string>#586E75</string><!-- base01 -->
+	</dict>
 	<key>settings</key>
 	<array>
 		<dict>
